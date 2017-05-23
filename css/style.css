@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
+body {
+	background: #42c2f4;
+	color: #ffffff;
+	font-family: 'Noto Sans Japanese', serif; font-weight: 200;
+}
+
+.kanji-base {
+	position: absolute;
+	top: -120px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	display: -webkit-flex;-webkit-align-item;center;
+	-webkit-justify-content: center;
+}
+
+.oto-base {
+	position: absolute;
+	top: 230px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	display: -webkit-flex;-webkit-align-item;center;
+	-webkit-justify-content: center;
+}
+
+.yomi-base {
+	position: absolute;
+	top: 340px;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	display: -webkit-flex;-webkit-align-item;center;
+	-webkit-justify-content: center;
+}
+
+.kanji-fontsize {
+	font-size: 25.2rem;
+}
+
+.oto-fontsize {
+	font-size: 6.2rem;
+}
+
+.yomi-fontsize {
+	font-size: 2.2rem;
+}
+
