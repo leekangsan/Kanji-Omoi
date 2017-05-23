@@ -1,11 +1,15 @@
 body {
 	background: #42c2f4;
 	color: #ffffff;
-	font-family: 'Sawarabi Gothic', serif; font-weight: 150;
+	font-family: 'Sawarabi Gothic', serif;
+	font-weight: 150;
+		font-weight: bold;
 }
 
-.sawarabi-font{
-	font-family: 'Sawarabi Gothic', serif; font-weight: 150;
+.sawarabi-font {
+	font-family: 'Sawarabi Gothic', serif;
+	font-weight: 150;
+		font-weight: bold;
 }
 
 .kanji-base {
@@ -48,14 +52,17 @@ body {
 }
 
 .kanji-fontsize {
-	font-size: 25.2rem;
+	font-size: 25.2 rem;
+	font-weight: bold;
 }
 
 .oto-fontsize {
-	font-size: 6.2rem;
+	font-size: 6.2 rem;
+	font-weight: bold;
 }
 
 .yomi-fontsize {
-	font-size: 2.2rem;
+	font-size: 2.2 rem;
+	font-weight: bold;
 }
 
