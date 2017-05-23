@@ -1,9 +1,10 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+@import url(http://fonts.googleapis.com/earlyaccess/sawarabigothic.css);
 
 body {
 	background: #42c2f4;
 	color: #ffffff;
-	font-family: 'Noto Sans Japanese', serif; font-weight: 200;
+	font-family: 'Sawarabi Gothic', serif; font-weight: 150;
 }
 
 .kanji-base {
